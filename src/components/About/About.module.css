@@ -1,10 +1,9 @@
 .featuresSection {
   text-align: center;
-  padding: 40px 20px;
+  padding: 10px 20px;
   background-color: white; 
   padding: 10%;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  
 }
 
 .title {
@@ -33,7 +32,7 @@
 }
 
 .featureItem {
-  background: #fee5a2;
+  background: #f2d399;
   padding: 20px;
   border-radius: 10px;
   text-align: center;

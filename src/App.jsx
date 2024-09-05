@@ -21,10 +21,9 @@ function App() {
     <Hero img={img1} desc="Young people have a clear understanding of their identity and affiliations." title="Healthy community"/>
     <About/>
     <OurProjects/>
-    <Values/>
+    <Lessons/>
     <Contactus2/>
     <Footer/>
-    <Lessons/>
     </>
   )
 }

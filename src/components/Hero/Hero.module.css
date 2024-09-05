@@ -16,6 +16,9 @@
     transform: translate(-50%,-50%);
     
 }
+.items p{
+    color: #fee5a2; 
+}
 @media screen and (max-width: 600px) {
 
     .items{
