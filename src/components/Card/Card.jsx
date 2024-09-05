@@ -6,7 +6,7 @@ function Card({img1,title,desc}) {
         <div className={styles.imageim}>
             <img src={img1} alt=''/>
         </div>
-        <h2>{title}</h2>
+        <h1>{title}</h1>
         <p>{desc}</p>
       
     </div>

@@ -7,6 +7,8 @@ import Values from "./components/values/Values"
 import Footer from './components/footer/Footer'
 import Contactus2 from "./components/contactus2/Contactus2"
 import NavBar from "./components/Navbar/Navbar"
+import Lessons from "./components/LessonsLearned/Lessons"
+import About from "./components/About/About"
 
 
 
@@ -17,10 +19,12 @@ function App() {
     <>
     <NavBar/>
     <Hero img={img1} desc="Young people have a clear understanding of their identity and affiliations." title="Healthy community"/>
+    <About/>
     <OurProjects/>
     <Values/>
     <Contactus2/>
     <Footer/>
+    <Lessons/>
     </>
   )
 }

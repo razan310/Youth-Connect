@@ -21,3 +21,7 @@
     transform: scale(1.2) ;
 
 }
+.card h1{
+    font-weight:bold;
+    font-size: 20px;
+}
